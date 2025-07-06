@@ -1,0 +1,19 @@
+# Arduino build files
+*.hex
+*.elf
+*.bin
+*.map
+*.eep
+
+# Wokwi simulation artifacts (if any)
+__wokwi__
+
+# OS / IDE files
+.DS_Store
+*.log
+*.swp
+*.bak
+Thumbs.db
+
+# VS Code project settings
+.vscode/
