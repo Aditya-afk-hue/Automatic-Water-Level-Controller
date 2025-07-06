@@ -30,7 +30,7 @@ Simulate this project on Wokwi:
 - `wokwi-project.txt`: Reference Wokwi project info
 
 ## 👨‍💻 Author
-- Originally designed by **Shubham Sutar** on Wokwi
+- Originally designed by **Aditya Ranjan Samal** on Wokwi
 
 ---
 
